@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Form</title>
+    <link rel="icon" href="./img/logo.jpeg" type="image/jpeg">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 style="color: red;">This is type of forms</h1><hr>
+    </header>
+    <article>
+        <div class="infomation">
+            <h2>Login</h2><br>
+            <div class="form">
+                <form action="index.php" method="post" enctype="multipart/form-data">
+                    <label for="Username">Username:</label>
+                    <input type="text" id="Username" placeholder="Phạm Công Vinh" minlength="6" maxlength="12"><br><br>
+    
+                    <label for="Password">Password:</label>
+                    <input type="password" id="Password" placeholder="a1212@Z" maxlength="12" required><br><br>
+    
+                    
+                    <label for="email">Email:</label>
+                    <input type="text" id="email" placeholder="ht12@gmail.com" ><br><br>
+                    
+                    <label for="phone">Phone:</label>
+                    <input type="tel" id="phone" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required><br><br>
+    
+                    <label for="day">Birthday:</label>
+                    <input type="date" id="day" required><br><br>
+    
+                    <label for="quantiti">Quantiti:</label>
+                    <input type="number" id="quantiti" min="0" max="31"  required><br><br>
+    
+                    <label for="title">Title:</label>
+    
+                    <input type="radio" id="Mr." value="Mr." name="title">
+                    <label for="Mr.">Mr.</label>
+                    <input type="radio" id="Ms." value="Ms." name="title">
+                    <label for="Ms.">Ms.</label>
+                    <input type="radio" id="Mrs." value="Mrs." name="title">
+                    <label for="Mrs.">Mrs.</label><br><br>
+                    
+                    <label for="payment">Payment:</label>
+                    <select id="payment">
+                        <option value="visa">visa</option>
+                        <option value="mastercard">mastercard</option>
+                        <option value="giftcard">giftcard</option>
+                    </select><br><br>
+    
+                    <label for="subscribe">Subscribe</label>
+                    <input type="checkbox" id="subscribe"><br><br>
+    
+                    <label for="comment">Comment:</label>
+                    <textarea id="comment" rows="3" cols="25"></textarea><br><br>
+                    
+                    <label for="file">File:</label>
+                    <input type="file" id="file" accept="image/png, image/jpeg"><br><br>
+                    <input type="submit" id="sub">
+                    <input type="reset" id="reset"><br><br>
+                </form>
+            </div>
+        </div>
+    </article><hr>
+
+    <article>
+        <div class="contact">
+            <h2>Liên hệ</h2><br>
+            <div class="form">
+                <form action="index.php" method="post" enctype="multipart/form-data">
+                    <label for="name">Username</label><br>
+                    <input type="text" id="name" required><br>
+                    <label for="pass">Password</label><br>
+                    <input type="password" id="pass" minlength="6" maxlength="12" required><br>
+                    <label for="mail">Email</label><br>
+                    <textarea id="mail" placeholder="vinh1243@gmail.com" required></textarea><br>
+                    <label for="file">File</label><br>
+                    <input type="file" id="file"  accept="image/png, image/jpeg"><br><br>
+                    <input type="submit" value="submit" id="sub">
+                </form>
+            </div>
+        </div>
+    </article>
+    
+</body>
+</html>

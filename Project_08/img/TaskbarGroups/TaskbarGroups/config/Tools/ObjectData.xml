@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Category xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Tools</Name>
+  <ColorString>#1F1F1F</ColorString>
+  <allowOpenAll>false</allowOpenAll>
+  <ShortcutList>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Google\Chrome\Application</WorkingDirectory>
+      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\The W3C Markup Validation Service.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>The W3C Markup Validation Service</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Google\Chrome\Application</WorkingDirectory>
+      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\Browse Fonts - Google Fonts.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Browse Fonts - Google Fonts</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Google\Chrome\Application</WorkingDirectory>
+      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\Font Awesome.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Font Awesome</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Google\Chrome\Application</WorkingDirectory>
+      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\freeCodeCamp.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>freeCodeCamp</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Google\Chrome\Application</WorkingDirectory>
+      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\GeeksforGeeks   A computer science portal for geeks.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>GeeksforGeeks   A computer science portal for geeks</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Google\Chrome\Application</WorkingDirectory>
+      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\Log in - W3Schools.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Log in - W3Schools</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Google\Chrome\Application</WorkingDirectory>
+      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\Udemy.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Udemy</name>
+    </ProgramShortcut>
+  </ShortcutList>
+  <Width>6</Width>
+  <Opacity>10</Opacity>
+</Category>

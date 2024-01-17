@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Category xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Offices</Name>
+  <ColorString>#1F1F1F</ColorString>
+  <allowOpenAll>false</allowOpenAll>
+  <ShortcutList>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Microsoft Office\root\Office16</WorkingDirectory>
+      <FilePath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Word.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Word</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Microsoft Office\root\Office16</WorkingDirectory>
+      <FilePath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Excel.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>Excel</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Program Files (x86)\Microsoft Office\root\Office16</WorkingDirectory>
+      <FilePath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PowerPoint.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>PowerPoint</name>
+    </ProgramShortcut>
+    <ProgramShortcut>
+      <Arguments />
+      <WorkingDirectory>C:\Users\vinhn\AppData\Local\Microsoft\WindowsApps</WorkingDirectory>
+      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\WPS Office.lnk</FilePath>
+      <isWindowsApp>false</isWindowsApp>
+      <name>WPS Office</name>
+    </ProgramShortcut>
+  </ShortcutList>
+  <Width>6</Width>
+  <Opacity>10</Opacity>
+</Category>
