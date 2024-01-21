@@ -6,22 +6,8 @@
   <ShortcutList>
     <ProgramShortcut>
       <Arguments />
-      <WorkingDirectory>C:\Program Files\Adobe\Adobe Photoshop 2024</WorkingDirectory>
-      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\Adobe Photoshop 2024.lnk</FilePath>
-      <isWindowsApp>false</isWindowsApp>
-      <name>Adobe Photoshop 2024</name>
-    </ProgramShortcut>
-    <ProgramShortcut>
-      <Arguments />
-      <WorkingDirectory>C:\Users\vinhn\AppData\Local\Programs\Canva</WorkingDirectory>
-      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\Canva.lnk</FilePath>
-      <isWindowsApp>false</isWindowsApp>
-      <name>Canva</name>
-    </ProgramShortcut>
-    <ProgramShortcut>
-      <Arguments />
       <WorkingDirectory>C:\Users\vinhn\AppData\Local\Figma\app-116.15.4</WorkingDirectory>
-      <FilePath>C:\Users\vinhn\OneDrive\Máy tính\Figma.lnk</FilePath>
+      <FilePath>C:\Users\vinhn\Desktop\Figma.lnk</FilePath>
       <isWindowsApp>false</isWindowsApp>
       <name>Figma</name>
     </ProgramShortcut>
